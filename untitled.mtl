@@ -1,0 +1,12 @@
+# Blender 3.3.1 MTL File: 'untitled.blend'
+# www.blender.org
+
+newmtl defaultMat
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:/Users/PALASH/Downloads/4hz0a00fhmm8-FreeRealisticHand (1)/hand_mapNew.jpg
